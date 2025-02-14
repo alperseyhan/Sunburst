@@ -1,0 +1,13 @@
+   {
+        "name": "Environmental",
+        "weight": 0.432,
+        "children": [
+          { "name": "Carbon Emissions", "value": 0.08088563801921969, "abbreviation": "CE-E1", "localWeight": 0.1872397908929934 },
+          { "name": "Fuel Usage and Efficiency", "value": 0.0772131881816168, "abbreviation": "FUE-E2", "localWeight": 0.1787385444851406 },
+          { "name": "Energy Consumption", "value": 0.05990500140246517, "abbreviation": "EC-E3", "localWeight": 0.13867233059813183 },
+          { "name": "Water Pollution and Waste Management", "value": 0.06615869043222651, "abbreviation": "WPWM-E4", "localWeight": 0.15314881189836077 },
+          { "name": "Noise Pollution Control", "value": 0.02240998117878073, "abbreviation": "NPC-E5", "localWeight": 0.05187620809560501 },
+          { "name": "Marine Biodiversity and Ecosystem Management", "value": 0.061670938982013264, "abbreviation": "MBEM-E6", "localWeight": 0.1427602477021064 },
+          { "name": "Environmental Compliance and Reporting", "value": 0.06374613855686631, "abbreviation": "ECR-E7", "localWeight": 0.14756406632766247 }
+        ]
+      }

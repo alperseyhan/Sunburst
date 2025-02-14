@@ -1,0 +1,22 @@
+﻿Group,Criteria,Code,Weights
+Environmental,Carbon Emissions,CE-E1,0.0809
+Environmental,Fuel Usage and Efficiency,FUE-E2,0.0772
+Environmental,Energy Consumption,EC-E3,0.0599
+Environmental,Water Pollution and Waste Management,WPWM-E4,0.0662
+Environmental,Noise Pollution Control,NPC-E5,0.0224
+Environmental,Marine Biodiversity and Ecosystem Management,MBEM-E6,0.0617
+Environmental,Environmental Compliance and Reporting,ECR-E7,0.0637
+Social,Employee Rights and Safety,ERS-S1,0.0678
+Social,Training and Development,TD-S2,0.0517
+Social,Community Relations and Social Responsibility,CRSR-S3,0.0395
+Social,Diversity and Inclusion,DI-S4,0.0256
+Social,Social Media Activity,SMA-S5,0.0196
+Social,Customer Relations,CR-S6,0.0629
+Social,Human Rights and Ethical Practices,HREP-S7,0.0588
+Governance,Memberships In Associations and Initiatives,MAI-G1,0.0175
+Governance,Financial Performance,FP-G2,0.0347
+Governance,Employee Recruitment,ER-G3,0.0402
+Governance,Ethics and Compliance Programs,ECP-G4,0.0423
+Governance,Transparency and Disclosure,TD-G5,0.0401
+Governance,Risk Management and Emergency Planning,RMEP-G6,0.0357
+Governance,Data Privacy and Cyber Security,DPCS-G7,0.0315
